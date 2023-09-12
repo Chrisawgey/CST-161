@@ -32,7 +32,7 @@ divide velocity by time
 store value of 2
 Print dipslay output 
 
-
+____________________
 (source file)
 
 a=input ("Enter a number")
@@ -42,7 +42,10 @@ print+(d)
 
 byte code is when you intepret you file like py and its going to get a machine code in other languages they
 they dont call it byte code
+__________________________
 
 exe= executer
 
-Syntax error 
+-Syntax error whenever something pops out 
+
+-fixing a statement is debugging
