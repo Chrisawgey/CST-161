@@ -49,3 +49,13 @@ exe= executer
 -Syntax error whenever something pops out 
 
 -fixing a statement is debugging
+_________________________
+
+side note*
+if you wanna check how to to see what version you have on windows
+
+> python --version 
+
+_________________________
+
+print (   ) <----- the 'print' is the function
