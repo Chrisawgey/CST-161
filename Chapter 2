@@ -1,0 +1,11 @@
+Width                       Ram:
+Height                      width|:5    
+Area                        height|:7 <------ numbers are integers and float are not the same
+                                               all integers are 2mb and strings are 4mb
+                             area|:35
+                                35.3 is 8mb
+                            areal=width*width
+
+                            5*3 would be a float
+
+    
