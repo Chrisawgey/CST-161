@@ -8,4 +8,39 @@ Area                        height|:7 <------ numbers are integers and float are
 
                             5*3 would be a float
 
-    
+            
+            The software develpment Process
+            Request - analysis- design - Implementation- integration - maintance
+
+            Ex. area = width * height 
+
+                plan out the design etc 
+
+                implement 
+
+                dimension = input ('enter dimension')
+                height = input ('')
+
+                area = dimension + height
+                print (area)
+                --------------------------------------------------
+
+            Data types 
+            * A data type consists of a set of values and a set of operations that can ve performed on those values 
+
+                    ex. Deposit Acoount 
+                        data types: 
+                        int     ssn
+                        String  Name
+                        String  Address
+
+                        set of operation you will peform on a deposit account 
+                        
+                        add money ()
+                        withdraw money()
+                        print money()
+
+            -------------------------------------------------------------------
+
+int : 1, 0, 1 ,2 
+str: "" "66"
