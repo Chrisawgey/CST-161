@@ -44,3 +44,8 @@ Area                        height|:7 <------ numbers are integers and float are
 
 int : 1, 0, 1 ,2 
 str: "" "66"
+
+--------------------------------------------------------------------------------
+
+string connections
+>>> "hi" + "there," +"ken!"

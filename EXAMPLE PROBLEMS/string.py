@@ -1,2 +1,5 @@
-print('i"m using a single quote in this string')
+sentence = "Hello, World!"  # Replace this with your desired sentence
+
+for _ in range(10):
+    print(sentence)
 
