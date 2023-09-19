@@ -1,5 +1,5 @@
 sentence = "Hello, World!"  # Replace this with your desired sentence
 
-for _ in range(10):
-    print(sentence)
+for i in "this is a test":
+    print (i)
 

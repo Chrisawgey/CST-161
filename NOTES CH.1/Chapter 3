@@ -1,0 +1,29 @@
+-Loops and selection statemnet
+
+print (x)
+print (x)
+print (x) 
+
+what is a loop = repeating an action 
+
+Executing a statemnt of given number of times
+
+for i in range = a range of numbers is going to give you a list of numbers
+
+range(10) you would repeat whatver number 10 times 
+
+for i in range(10):             placeholder = i you can put anything it doesn't matter.
+    print("example text")
+
+    this would be example text ten times
+
+for <variable> 
+
+for i in range(4):
+    print ( str(i) + " : ")
+    print ("example")
+
+The i would be a placeholder
+
+for i in "this is a test":
+    print (i)
