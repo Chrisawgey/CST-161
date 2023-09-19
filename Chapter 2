@@ -80,3 +80,13 @@ print (area)
 
 area = "a" + 2 to whatever will just squish together 
 ------------------------------------------------------
+
+file = today.py []
+
+from today test.py    import x 
+
+when you want to use for example sqrt you can just import it from whatver libarary it is 
+ex.
+from math import sqrt 
+---> after that their will be no SyntaxError 
+
