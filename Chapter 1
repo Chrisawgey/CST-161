@@ -90,3 +90,5 @@ ex.
 from math import sqrt 
 ---> after that their will be no SyntaxError 
 
+example of how to run the script would be whatvername pathname. py 
+
