@@ -69,3 +69,14 @@ ASCII HAS two bytes,
 ASICC = 2^8 
 
 8 bits = 2^8
+
+
+input = accept a string
+add int whenever you want to do a equation 
+a float add float and a a string just add str(3)
+
+print (area)
+23
+
+area = "a" + 2 to whatever will just squish together 
+------------------------------------------------------
