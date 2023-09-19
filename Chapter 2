@@ -49,3 +49,10 @@ str: "" "66"
 
 string connections
 >>> "hi" + "there," +"ken!"
+
+-----------------------------------------
+
+""" this is a comment area 
+"""
+
+area = weight * 2 assiging this statement 
