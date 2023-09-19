@@ -56,3 +56,16 @@ string connections
 """
 
 area = weight * 2 assiging this statement 
+
+
+float number ranges from- -10^308 to 10^378
+
+ASCII HAS two bytes,
+
+16 bits = hexadecimals 
+
+2^16 
+
+ASICC = 2^8 
+
+8 bits = 2^8
