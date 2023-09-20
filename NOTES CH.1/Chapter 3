@@ -27,3 +27,13 @@ The i would be a placeholder
 
 for i in "this is a test":
     print (i)
+    --------------------------------------
+
+for i in range (1,12,5):
+    print(i)
+
+    this would go by (start,end, skip by) they could be expressions not just a number 
+
+    you can always replace something from [a list] mutable 
+
+** to the power ofn
